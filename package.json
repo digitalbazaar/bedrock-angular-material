@@ -1,0 +1,24 @@
+{
+  "name": "bedrock-angular-material",
+  "version": "0.0.1-0",
+  "description": "Provides dependencies and configuration for angular-material.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-angular-material.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-angular-material/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-angular-material#readme",
+  "dependencies": {
+    "angular-material": "^1.1.4"
+  },
+  "bedrock": {
+    "browserDependencies": "all",
+    "manifest": {
+      "angular-material": {
+        "css": "angular-material.css"
+      }
+    }
+  }
+}
