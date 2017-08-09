@@ -20,5 +20,6 @@
         "css": "angular-material.css"
       }
     }
-  }
+  },
+  "browser": "index.js"
 }
