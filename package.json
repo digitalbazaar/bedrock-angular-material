@@ -11,6 +11,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-angular-material#readme",
   "dependencies": {
+    "angular-animate": "~1.6.5",
+    "angular-aria": "~1.6.5",
     "angular-material": "^1.1.4"
   },
   "bedrock": {
