@@ -1,5 +1,10 @@
 # bedrock-angular-material ChangeLog
 
+## 1.0.2 - 2017-09-12
+
+### Fixed
+- Update deps. angular-material@1.1.5 now has an angular-messages dependency.
+
 ## 1.0.1 - 2017-08-17
 
 ### Fixed
