@@ -1,6 +1,6 @@
 {
   "name": "bedrock-angular-material",
-  "version": "1.0.2",
+  "version": "1.0.3-0",
   "description": "Provides dependencies and configuration for angular-material.",
   "repository": {
     "type": "git",
