@@ -1,5 +1,10 @@
 # bedrock-angular-material ChangeLog
 
+## 1.0.3 - 2017-11-06
+
+### Fixed
+- Add manifest overrides to correct dependency loading/ordering.
+
 ## 1.0.2 - 2017-09-12
 
 ### Fixed
